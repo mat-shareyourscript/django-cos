@@ -2,6 +2,8 @@
 
 [![](https://images.microbadger.com/badges/image/matshareyourscript/django-cos.svg)](https://microbadger.com/images/matshareyourscript/django-cos)
 [![](https://images.microbadger.com/badges/version/matshareyourscript/django-cos.svg)](https://microbadger.com/images/matshareyourscript/django-cos)
+![Python](https://img.shields.io/badge/Python-3.7-yellow)
+![Django](https://img.shields.io/badge/Django-3.2.7-blue)
 [![Build Status](https://travis-ci.org/mat-shareyourscript/django-cos.svg?branch=main)](https://travis-ci.org/mat-shareyourscript/django-cos)
 [![Docker Stars](https://img.shields.io/docker/stars/matshareyourscript/django-cos.svg?style=flat)](https://hub.docker.com/r/matshareyourscript/django-cos/)
 [![Docker Automated build](https://img.shields.io/docker/automated/matshareyourscript/django-cos.svg?style=flat)]()
